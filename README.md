@@ -5,7 +5,7 @@ Requis : Symfony 3
 
 Copier le dossier UtilsBundle dans le dossier src/ de symfony.
 
-Modifier le fichier app/AppKernel.php et ajouter la ligne suivante dans l'instanciation des Bundles : new UtilsBundle\SGUtilsBundle(),
+Modifier le fichier app/AppKernel.php et ajouter la ligne suivante dans l'instanciation des Bundles : new UtilsBundle\UtilsBundle(),
 
 ## Methode Diponible
 
