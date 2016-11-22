@@ -1,5 +1,9 @@
 # Data Manager - Bundle pour Symfony 3
 Bundle Symfony, ORM pour les bases de données MySQL flexible et léger. Peut être utilisé en remplacement de Doctrine.
+## Installation
+Requis : Symfony 3 
+Copier le dossier UtilsBundle dans le dossier src/ de symfony.
+Modifier le fichier app/AppKernel.php et ajouter la ligne suivante dans l'instanciation des Bundles : new SG\UtilsBundle\SGUtilsBundle(),
 
 ## Methode Diponible
 
