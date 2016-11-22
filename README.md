@@ -5,6 +5,7 @@ Bundle Symfony, ORM pour les bases de données MySQL flexible et léger. Peut ê
 
 #### public function query($req);
 >Lance une requete SQL, retourne le résultat sous la forme d'un tableau associatif
+
 >$req : SQL request
 
 #### public function update($nametable,$array,$id);
