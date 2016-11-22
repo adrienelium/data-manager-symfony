@@ -1,6 +1,6 @@
 <?php
 
-namespace SG\UtilsBundle\Helper;
+namespace UtilsBundle\Helper;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\Yaml\Yaml;
